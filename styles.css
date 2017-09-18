@@ -1,0 +1,13 @@
+p {
+    margin: 10px;
+}
+img {
+    padding: 10px;
+}
+.head {
+    background-color: orangered;
+}
+#head {
+    background-color: white;
+    font-family: serif;
+}
